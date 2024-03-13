@@ -17,6 +17,7 @@ Echo-Form simplifies the process of documenting workplace incidents, providing s
 - **Documentation:** Simplifies documenting workplace incidents, empowering users to pursue internal or external reporting confidently.
 - **Guidance:** Provides actionable steps and curated resources to navigate workplace challenges effectively.
 - **Privacy Promise:** Ensures confidentiality and equitable workplaces by collecting essential details for documentation and reporting.
+- **Accessible Design:** Echo-Form is designed with accessibility in mind. We use Accessible Rich Internet Application (ARIA) roles and attributes to enhance the accessibility of our web interface, making it easier for all users to interact with our platform.
 
 ## Installation
 To install Echo-Form locally, follow these steps:
