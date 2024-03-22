@@ -1,6 +1,6 @@
 # Echo-Form: Empowering Workplace Resilience
 
-Echo-Form is a web application designed to empower users to confidently address workplace challenges by providing a supportive platform for documenting experiences. Seamlessly integrated with your email, it ensures easy access to crucial information when needed. Additionally, Echo-Form offers personalized guidance on self-care based on the impact of experiences and consolidates resources for taking action, all in one convenient place.
+Echo-Form: Leveraging Google's Powerful Suite - Empowering workplaces by simplifying incident documentation through Google Scripts, offering personalized guidance, and prioritizing user privacy. Our integration with Google's robust tools ensures seamless form submission and data handling, reinforcing our commitment to accessibility and security. Join us in fostering a supportive environment for all, powered by the reliability and innovation of Google technologies.
 
 ## Table of Contents
 - [About](#about)
